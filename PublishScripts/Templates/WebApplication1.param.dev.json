@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "fleetbus1"
+  },
+  "hostingPlanName": {
+    "value": "fb1"
+  },
+  "siteLocation": {
+    "value": "Southeast Asia"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "5857f212-e078-4fe4-9947-c3cf3cdf9255"
+  },
+  "resourceGroup": {
+    "value": "fleetbus1"
+  }
+}
